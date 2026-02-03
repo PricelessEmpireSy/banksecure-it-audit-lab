@@ -1,0 +1,7 @@
+Username,Department,Role,System,Access Level,Status
+teller01,Operations,Teller,Odoo,Read/Write,Active
+teller02,Operations,Teller,Odoo,Read/Write,Active
+itadmin01,IT,IT Admin,Active Directory,Full,Active
+auditor01,Audit,Auditor,Odoo,Read,Active
+manager01,Management,Manager,Odoo,Read/Approve,Active
+formerstaff01,Operations,Teller,Odoo,None,Disabled
