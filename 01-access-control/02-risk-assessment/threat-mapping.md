@@ -1,9 +1,8 @@
-# Threat Mapping
+# Threat Mapping – BankSecure
 
-| Asset | Threat | Possible Impact |
-|-------|--------|----------------|
-| Core Banking App | Unauthorized access | Financial fraud |
-| Active Directory | Privilege abuse | System takeover |
-| Database Server | Data exfiltration | Regulatory breach |
-| Network | Malware | Service disruption |
-| Server Room | Physical theft | Data loss |
+| Asset              | Threat                  | Vulnerability               | Business Impact        |
+|--------------------|-------------------------|-----------------------------|----------------------|| Core Banking App   | Unauthorized access     | Weak authentication         | Financial fraud        |
+| Active Directory   | Privilege escalation    | Excess admin rights         | System compromise      |
+| Database Server    | Data breach             | Missing patches             | Regulatory penalties   |
+| Corporate Network  | Malware infection       | No endpoint protection      | Service disruption     |
+| Server Room        | Physical theft          | No access logging           | Data loss              |
