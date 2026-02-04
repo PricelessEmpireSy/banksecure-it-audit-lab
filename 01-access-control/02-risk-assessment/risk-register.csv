@@ -1,0 +1,6 @@
+Risk ID,Asset,Threat,Vulnerability,Impact,Likelihood,Risk Level,Control,Owner,Status
+R-01,Core Banking App,Unauthorized access,Weak passwords,High,Medium,High,MFA + RBAC,IT,Open
+R-02,Active Directory,Privilege escalation,Excess admin rights,High,Low,Medium,Least privilege,IT,Open
+R-03,Database Server,Data breach,Unpatched system,High,Medium,High,Patch management,IT,Open
+R-04,Network,Malware infection,No endpoint protection,Medium,High,High,EDR deployment,IT,Open
+R-05,Office Server Room,Physical theft,No access log,High,Low,Medium,Badge access,Facilities,Open
