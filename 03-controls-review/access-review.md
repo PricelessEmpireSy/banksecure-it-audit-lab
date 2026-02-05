@@ -1,18 +1,12 @@
-\# User Access Review – BankSecure
+# User Access Review – BankSecure
 
-
-
-\## Objective
+## Objective
 
 Ensure only authorized users have access to banking systems.
-
-
 
 \## Scope
 
 Core Banking App, Active Directory, Database Systems.
-
-
 
 \## Key Risks
 
@@ -24,21 +18,13 @@ Core Banking App, Active Directory, Database Systems.
 
 \- Lack of access reviews
 
-
-
 \## Sample Access Matrix
-
-
 
 |User|Role|System|Access Level|Risk|
 |-|-|-|-|-|
 |Admin01|IT Admin|Core Banking|Full|High|
 |Teller02|Cash Officer|Core Banking|Read/Write|Medium|
 |HR03|HR Officer|Database|Read|Low|
-
-
-
-
 
 ## Recommended Controls
 
@@ -47,4 +33,3 @@ Core Banking App, Active Directory, Database Systems.
 \- Role-based access control (RBAC)
 
 \- Multi-factor authentication
-
