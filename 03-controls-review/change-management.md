@@ -23,6 +23,3 @@ Ensure systems changes are authorized, tested, and traceable.
 |-|-|-|-|
 |CHG001|Core banking patch|IT Manager|Approved|
 |CHG002|DB config change|Security Lead|Pending|
-
-
-
