@@ -10,17 +10,14 @@ Core Banking App, Active Directory, Database Systems.
 
 ## Key Risks
 
-- Orphaned accounts
-
-- Excessive privileges
-
-- Shared credentials
-
-- Lack of access reviews
+* Orphaned accounts
+* Excessive privileges
+* Shared credentials
+* Lack of access reviews
 
 ## Sample Access Matrix
 
-|User|Role|System|Access Level|Risk|
+|**USER**|**ROLE**|**SYSTEM**|**ACCESS LEVEL**|**RISK**|
 |-|-|-|-|-|
 |Admin01|IT Admin|Core Banking|Full|High|
 |Teller02|Cash Officer|Core Banking|Read/Write|Medium|
@@ -28,8 +25,6 @@ Core Banking App, Active Directory, Database Systems.
 
 ## Recommended Controls
 
-- Quarterly access review
-
-- Role-based access control (RBAC)
-
-- Multi-factor authentication
+* Quarterly access review
+* Role-based access control (RBAC)
+* Multi-factor authentication
