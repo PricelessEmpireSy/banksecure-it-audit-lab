@@ -4,21 +4,21 @@
 
 Ensure only authorized users have access to banking systems.
 
-\## Scope
+## Scope
 
 Core Banking App, Active Directory, Database Systems.
 
-\## Key Risks
+## Key Risks
 
-\- Orphaned accounts
+- Orphaned accounts
 
-\- Excessive privileges
+- Excessive privileges
 
-\- Shared credentials
+- Shared credentials
 
-\- Lack of access reviews
+- Lack of access reviews
 
-\## Sample Access Matrix
+## Sample Access Matrix
 
 |User|Role|System|Access Level|Risk|
 |-|-|-|-|-|
@@ -28,8 +28,8 @@ Core Banking App, Active Directory, Database Systems.
 
 ## Recommended Controls
 
-\- Quarterly access review
+- Quarterly access review
 
-\- Role-based access control (RBAC)
+- Role-based access control (RBAC)
 
-\- Multi-factor authentication
+- Multi-factor authentication
