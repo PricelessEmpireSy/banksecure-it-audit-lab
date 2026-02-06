@@ -2,7 +2,7 @@
 
 ## Overview
 
-This audit assessed BankSecure's IT environment against ISO 27001 and NIST CSF to identify risks, control gaps and improvement areas.
+This audit assessed BankSecure's IT environment against ISO 27001 and NIST CSF to identify risks, control gaps, and improvement areas.
 
 ## Key Findings
 
